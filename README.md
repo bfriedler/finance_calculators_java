@@ -1,2 +1,2 @@
 # finance_calculators_java
-java financial calculations - binomial options, bonds, bsm options, forwards, yield curves
+java financial calculations - Binomial Options, Bonds, BSM options, Forwards, Yield curves
